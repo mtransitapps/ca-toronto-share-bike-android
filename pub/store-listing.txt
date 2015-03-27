@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds Bike Share Toronto stations information to MonTransit BETA.
 
-This app contains the bike stations position & availability as well as the latest news from bikesharetoronto.tumblr.com and @bikeshareTO on Twitter.
+This app contains the bike stations position & availability as well as the latest news from bikesharetoronto.tumblr.com, YouTube and @bikeshareTO on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-toronto-share-bike-android/
 This application is not related with the Bike Share Toronto.
 
 Permissions:
-- Other: required to load bike stations information and to read news from bikesharetoronto.tumblr.com and Twitter.
+- Other: required to load bike stations information and to read news from bikesharetoronto.tumblr.com, YouTube and Twitter.
 ----------
 Application type: Applications
 ----------
