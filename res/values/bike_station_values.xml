@@ -4,7 +4,7 @@
     <string name="bike_station_authority">org.mtransit.android.ca_toronto_share_bike</string>
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
-    <string name="bike_station_data_url">http://www.bikesharetoronto.com/data/stations/bikeStations.xml</string>
+    <string name="bike_station_data_url">http://feeds.bikesharetoronto.com/stations/stations.xml</string>
     <string name="bike_station_area_min_lat">43.630277</string>
     <string name="bike_station_area_max_lat">43.689182</string>
     <string name="bike_station_area_min_lng">-79.458333</string>
