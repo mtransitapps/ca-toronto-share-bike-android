@@ -39,7 +39,7 @@
         </activity>
         <!-- BIKE STATIONs PROVIDER -->
         <provider
-            android:name="org.mtransit.android.commons.provider.BixiBikeStationProvider"
+            android:name="org.mtransit.android.commons.provider.PBSCBikeStationProvider"
             android:authorities="@string/bike_station_authority"
             android:exported="true"
             android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
