@@ -6,13 +6,13 @@ Availability. News.
 ----------
 What's new in this version?:
 Bug fixes & performance improvements.
-News from bikesharetoronto.tumblr.com.
-Tweets from @bikeshareTO.
+News from bikesharetoronto.com.
+Tweets from @BikeShareTO.
 ----------
 Full description:
 This application adds Bike Share Toronto stations information to MonTransit.
 
-This app contains the bike stations position & availability as well as the latest news from bikesharetoronto.tumblr.com, YouTube and @bikeshareTO on Twitter.
+This app contains the bike stations position & availability as well as the latest news from bikesharetoronto.com and @BikeShareTO on Twitter.
 
 Bike Share Toronto is available in Toronto, ON, Canada.
 
@@ -31,7 +31,7 @@ https://github.com/mtransitapps/ca-toronto-share-bike-android/
 This application is not related with the Bike Share Toronto.
 
 Permissions:
-- Other: required to load bike stations information and to read news from bikesharetoronto.tumblr.com, YouTube and Twitter.
+- Other: required to load bike stations information and to read news from bikesharetoronto.com and Twitter.
 ----------
 Application type: Applications
 ----------
