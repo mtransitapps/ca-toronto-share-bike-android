@@ -5,7 +5,7 @@
     <string name="twitter_target_for_poi_authority">@string/bike_station_authority</string>
     <string name="twitter_color">@string/bike_station_color</string>
     <string-array name="twitter_screen_names">
-        <item>bikeshareTO</item>
+        <item>BikeShareTO</item>
     </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
