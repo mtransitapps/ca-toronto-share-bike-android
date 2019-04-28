@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <integer name="bike_station_db_version">6</integer>
+    <integer name="bike_station_db_version">10</integer>
     <string name="bike_station_authority">org.mtransit.android.ca_toronto_share_bike</string>
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
-    <string name="bike_station_data_url">https://tor.publicbikesystem.net/ube/stations</string>
+    <string name="bike_station_data_url">https://tor.publicbikesystem.net/ube/gbfs/v1/</string>
     <string name="bike_station_area_min_lat">43.630277</string>
     <string name="bike_station_area_max_lat">43.689182</string>
     <string name="bike_station_area_min_lng">-79.458333</string>
