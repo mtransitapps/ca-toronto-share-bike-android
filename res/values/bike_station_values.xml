@@ -9,7 +9,7 @@
     <string name="bike_station_area_max_lat">43.689182</string>
     <string name="bike_station_area_min_lng">-79.458333</string>
     <string name="bike_station_area_max_lng">-79.301709</string>
-    <string name="bike_station_color">107054</string><!-- GREEN -->
+    <string name="bike_station_color">107054</string> <!-- GREEN -->
     <color name="bike_station_value1_color">#107054</color> <!-- GREEN -->
     <color name="bike_station_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
     <color name="bike_station_value1_sub_value1_color">#0080C6</color> <!-- BLUE -->
