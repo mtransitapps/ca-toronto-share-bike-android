@@ -10,10 +10,13 @@
     <string name="bike_station_area_min_lng">-79.50</string>
     <string name="bike_station_area_max_lng">-79.00</string>
     <string name="bike_station_color">107054</string> <!-- GREEN -->
+    <!-- VALUE 1 -->
     <color name="bike_station_value1_color">#107054</color> <!-- GREEN -->
     <color name="bike_station_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <!-- VALUE 1 SUB -->
     <color name="bike_station_value1_sub_value1_color">#0080C6</color> <!-- BLUE -->
     <color name="bike_station_value1_sub_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <!-- VALUE 2 -->
     <color name="bike_station_value2_color">#2FB459</color> <!-- LIGHT GREEN -->
     <color name="bike_station_value2_color_bg">#FFFFFF</color> <!-- WHITE -->
 </resources>
