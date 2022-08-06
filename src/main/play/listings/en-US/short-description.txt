@@ -1,2 +1,1 @@
-Bike Share Toronto for MonTransit.
-Availability. News.
+Bike Share Toronto for MonTransit. Availability. News.
