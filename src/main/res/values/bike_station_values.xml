@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <integer name="bike_station_db_version">12</integer>
+    <integer name="bike_station_db_version">13</integer>
     <string name="bike_station_authority">org.mtransit.android.ca_toronto_share_bike</string>
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
@@ -9,14 +9,14 @@
     <string name="bike_station_area_max_lat">43.85</string>
     <string name="bike_station_area_min_lng">-79.50</string>
     <string name="bike_station_area_max_lng">-79.00</string>
-    <string name="bike_station_color">107054</string> <!-- GREEN -->
+    <string name="bike_station_color">2FB459</string> <!-- LIGHT GREEN -->
     <!-- VALUE 1 -->
-    <color name="bike_station_value1_color">#107054</color> <!-- GREEN -->
-    <color name="bike_station_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value1_color">#2FB459</color> <!-- LIGHT GREEN -->
+    <color name="bike_station_value1_color_bg">#2FB459</color> <!-- LIGHT GREEN -->
     <!-- VALUE 1 SUB -->
-    <color name="bike_station_value1_sub_value1_color">#0080C6</color> <!-- BLUE -->
-    <color name="bike_station_value1_sub_value1_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value1_sub_value1_color">#107054</color> <!-- GREEN -->
+    <color name="bike_station_value1_sub_value1_color_bg">#107054</color>  <!-- GREEN -->
     <!-- VALUE 2 -->
-    <color name="bike_station_value2_color">#2FB459</color> <!-- LIGHT GREEN -->
-    <color name="bike_station_value2_color_bg">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value2_color">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value2_color_bg">#000000</color> <!-- BLACK -->
 </resources>
