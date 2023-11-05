@@ -4,7 +4,7 @@
     <string name="bike_station_authority">org.mtransit.android.ca_toronto_share_bike</string>
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
-    <string name="bike_station_data_url">https://tor.publicbikesystem.net/ube/gbfs/v1/</string>
+    <string name="bike_station_data_url">https://tor.publicbikesystem.net/customer/gbfs/v2/</string>
     <string name="bike_station_area_min_lat">43.50</string>
     <string name="bike_station_area_max_lat">43.85</string>
     <string name="bike_station_area_min_lng">-79.50</string>
