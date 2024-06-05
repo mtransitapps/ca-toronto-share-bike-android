@@ -1,0 +1,9 @@
+[submodule "commons"]
+	path = commons
+	url = https://github.com/mtransitapps/commons.git
+[submodule "commons-java"]
+	path = commons-java
+	url = https://github.com/mtransitapps/commons-java.git
+[submodule "commons-android"]
+	path = commons-android
+	url = https://github.com/mtransitapps/commons-android.git
